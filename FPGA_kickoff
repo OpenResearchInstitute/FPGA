@@ -1,0 +1,20 @@
+FPGA Development
+
+There are two big scary technologies that we're tangling with. GNU Radio and FPGA development.
+
+Let's talk about FPGA design. We are going to kick off our own tutorial learning sessions as of today. If you are experienced at FPGA design, then you can help advise and support. If you joined Phase 4 to learn how to do this sort of work, or get back into to this sort of work, then this will ramp you up. All of the activities will build upon one another. We will start with toys but end up with things that actually make radios. You will have fun. It's not worth doing if it's not fun. You will feel frustrated too, because it's kind of hard. Things worth doing are rarely easy, and we will all help each other out.
+
+First off: You are going to need Vivado from Xilinx. There's lots of choices of toolchains. We may have to use another toolchain down the line. That's OK. Do not panic if that happens. In fact, just don't panic at all. Nothing has exploded (yet). 
+
+For now, though, you are going to be using Vivado and Xilinx. Go install it. Linux or Windows are your choices. Sorry MacOS people (like me) no Vivado for you. You'll have to go get a Windows or Linux machine. If you already have Vivado, then update it. 
+
+That's it! That's the first assignment. Go do it. Take a photo of your installation and send it to me. 
+
+The people that have indicated interest or proficiency or both in FPGA design are the following.
+Mike Murphree 
+Dave Smith
+Michael Pfeuffer
+Wally Ritchie
+Eric Nichols
+Bob McGwier, his students, and myself
+Steve Hicks? consulting services? 
