@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Silver-Palace" Modified="2017-01-12 08:45:02 -0800" ModID="E27012C1-04D8-4A7A-A40D-B912195C93F1">
+    <Binder>
+        <BinderItem ID="0" UUID="802FE8BA-1D72-43E6-8402-A33C823EDD39" Type="DraftFolder" Created="2017-01-12 08:44:02 -0800" Modified="2017-01-12 08:44:02 -0800">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="5596679D-75F6-4D9F-977D-263FB5DC13BC" Type="Text" Created="2017-01-12 08:44:02 -0800" Modified="2017-01-12 08:44:39 -0800">
+                    <Title>GNU Radio Working</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="C9D89D2D-70F8-481E-8130-78F44706DB56" Type="ResearchFolder" Created="2017-01-12 08:44:02 -0800" Modified="2017-01-12 08:44:02 -0800">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="EB50894E-DB27-4261-9C9B-EAACA5579E45" Type="TrashFolder" Created="2017-01-12 08:44:02 -0800" Modified="2017-01-12 08:44:02 -0800">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="817F5B81-6783-4685-B084-A83B8BD37822" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="68E85FB0-6878-496D-AFB8-99DE47D992A5" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-01-12 08:44:01 -0800" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="354" Characters="2033" Date="2017-01-12 08:44:01 -0800"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
