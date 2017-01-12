@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SCRSelectedCompileOptionsInfoSaveName</key>
+	<dict>
+		<key>Tag</key>
+		<integer>1</integer>
+		<key>Title</key>
+		<string>Original</string>
+	</dict>
+	<key>binderSelection</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>binderSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {191, 976}}</string>
+		<string>{{192, 0}, {1119, 976}}</string>
+	</array>
+	<key>binderState</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>collectionsHeight</key>
+	<real>101</real>
+	<key>collectionsRepresentedBinderDocumentsInfo</key>
+	<dict>
+		<key>MainID</key>
+		<string></string>
+		<key>SupportingID</key>
+		<string></string>
+	</dict>
+	<key>collectionsTabListIsCollapsed</key>
+	<true/>
+	<key>editorSplitType</key>
+	<integer>0</integer>
+	<key>inspectorIsCollapsed</key>
+	<true/>
+	<key>inspectorWidth</key>
+	<real>227</real>
+	<key>mainDocumentEditor.binderDocuments</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>mainDocumentEditor.currentEditorViewMode</key>
+	<integer>0</integer>
+	<key>mainDocumentEditor.editorGroupsViewMode</key>
+	<integer>2</integer>
+	<key>mainDocumentEditor.navigationHistory</key>
+	<dict>
+		<key>CurrentIndex</key>
+		<integer>0</integer>
+		<key>NavigationHistoryArray</key>
+		<array>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>3</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>mainDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {630.85712, 512.57141}}</string>
+	<key>mainDocumentEditor.selectedRanges</key>
+	<string>{278, 0}</string>
+	<key>mainDocumentEditor.textEditorState</key>
+	<dict>
+		<key>hasMultiplePages</key>
+		<false/>
+		<key>textScale</key>
+		<integer>175</integer>
+		<key>usesFacingPages</key>
+		<false/>
+	</dict>
+	<key>mainWindowFrame</key>
+	<string>991 189 1311 998 0 0 2560 1417 </string>
+	<key>supportingDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {606, 304}}</string>
+	<key>supportingDocumentEditor.selectedItemIDs</key>
+	<array/>
+	<key>supportingDocumentViewIsCurrent</key>
+	<false/>
+</dict>
+</plist>
