@@ -9,6 +9,7 @@ The first attempt to use this build didn’t work. The second attempt did work. 
 My first impression, that the SD card image from Pavel would have the SDR transceiver code already installed, seemed to be in error. This article about using the Red Pitaya with gqrx was relevent: http://gqrx.dk/blog/gqrx-with-the-red-pitaya because it mentioned installing the app with the stock version of the Red Pitaya SD card image instead of using Pavel’s SD card image from github.
 After installing the SDR Transceiver application from the Red Pitaya application marketplace, the SDR transceiver directory appeared in the right location, and the bit file could be loaded to the FPGA. The marketplace is accessed from a page visible after one logs in to redpitaya.com and uses the MY RP function. Click on the LAN IP address. It’s a highlighted link that takes you to a page. That page has applications that are already on the Red Pitaya as well as an icon for the Application Marketplace. Click that to see all the applications available. GNU Radio successfully then recognized the Red Pitaya.
 The AM transceiver flow graph was run, but no signals were heard. The antenna was not ideal, but AM radio signals are strong enough to where it shouldn’t have mattered. 
+AM Radio stations were found easily using an online database: http://radio-locator.com/cgi-bin/locate?select=city&amp;city=San%20Diego&amp;state=CA
 
 Next Steps:
 1) Get a better antenna to prove the Red Pitaya isn’t as deaf as it seems

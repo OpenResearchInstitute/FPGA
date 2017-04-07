@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Silver-Palace" Modified="2017-03-25 08:41:19 -0700" ModID="5F4FE356-C280-4247-BC1B-FBF041C61FCE">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Silver-Palace" Modified="2017-04-03 22:26:40 -0700" ModID="E4366878-5E94-46B0-85F1-7BCA6F9DF584">
     <Binder>
         <BinderItem ID="0" UUID="802FE8BA-1D72-43E6-8402-A33C823EDD39" Type="DraftFolder" Created="2017-01-12 08:44:02 -0800" Modified="2017-01-12 08:44:02 -0800">
             <Title>Draft</Title>
@@ -14,7 +14,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>278,0</TextSelection>
+                        <TextSelection>829,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -64,7 +64,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-01-12 08:44:01 -0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="23" Characters="140" Date="2017-03-25 08:40:15 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-04-03 21:09:47 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

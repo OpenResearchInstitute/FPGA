@@ -66,7 +66,7 @@
 	<key>mainDocumentEditor.scrollRect</key>
 	<string>{{0, 0}, {630.85712, 512.57141}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{278, 0}</string>
+	<string>{829, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -77,7 +77,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>991 189 1311 998 0 0 2560 1417 </string>
+	<string>-1368 115 1311 998 -2560 0 2560 1417 </string>
 	<key>supportingDocumentEditor.scrollRect</key>
 	<string>{{0, 0}, {606, 304}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
