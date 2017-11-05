@@ -77,7 +77,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>32 328 1311 998 0 0 2560 1417 </string>
+	<string>-1826 336 1311 998 -2560 0 2560 1417 </string>
 	<key>supportingDocumentEditor.scrollRect</key>
 	<string>{{0, 0}, {606, 304}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
